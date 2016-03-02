@@ -1,4 +1,4 @@
-<h1>Workflow  version 2.0</h1>
+<h1>Workflow  version 2.7</h1>
 <p>English 2105 is a class in research-based problem solving and writing, where research means reading recent publications, surveying, interviewing, observing, and testing the efficacy of potential solutions. The problems you solve don't have ready made solutions. There are no formulas. There are unanswerable questions and therefore unsolvable problems. Part of the task is to identify and properly frame a situation as a problem before seeking and testing possible solutions. No expert exists to solve these problems. You have to become the expert. You have to convince relevant others that there is a problem and that you have what it takes to solve it.
 
 <p>This workflow is the essence of being an effective member of a community, and it is the means by which you can obtain an invitation to new communities: This is the kind of thinking and writing that gets you paid.
